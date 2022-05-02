@@ -1,0 +1,46 @@
+.book{
+    margin: 20px 5%;
+    width: 300px;
+    height: 600px;
+    border: 1px solid white;
+    text-align: center;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.book_info{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex: 1 1 auto;
+}
+
+.edit_input{
+    width: 290px;
+    height: 40px;
+    border: none;
+    font-size: 18px;
+    text-align: center;
+}
+.edit_image{
+    height: 450px;
+    margin-top: 5px;
+    border: 1px solid white;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.book_btns{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    gap: 130px;
+    margin-bottom: 10px;
+}
+button {
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 20px;
+}

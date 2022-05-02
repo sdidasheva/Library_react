@@ -1,0 +1,66 @@
+.book {
+    margin: 20px 5%;
+    width: 300px;
+    height: 600px;
+    border: 1px solid white;
+    text-align: center;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.book_image{
+    width: 290px;
+    padding-top: 5px;
+}
+.book_info{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex: 1 1 auto;
+}
+.book_title{
+    font-size: 20px;
+    font-weight: 700;
+    padding: 0 5px;
+}
+.book_title:hover{
+    cursor: pointer;
+    color: #F44336;
+}
+.book_year{
+    font-size: 18px;
+    font-weight: 400;
+    margin: 5px 0;
+}
+.book_author{
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: 400;
+}
+.book_author:hover{
+    color: #F44336;
+}
+.book_btns{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    gap: 130px;
+    margin-bottom: 10px;
+}
+
+.btn_delete {
+    color: #F44336;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.btn_edit {
+    color: orange;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 20px;
+}

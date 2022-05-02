@@ -1,0 +1,11 @@
+.authors {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.author_item{
+    margin-right: 20px;
+}

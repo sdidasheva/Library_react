@@ -1,0 +1,28 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    margin: 1% 5%;
+    align-items: center;
+}
+
+.header_logo {
+    width: 90px;
+}
+.header_nav {
+    display: flex;
+    flex-direction: row;
+    margin-left: 100px;
+}
+.header_items{
+    font-size: 28px;
+    font-weight: bold;
+    margin-right: 40px;
+    text-decoration: none;
+}
+.header_items:hover {
+    cursor: pointer;
+    color: #F44336;
+}
+.header_line {
+    margin: 0 5%;
+}

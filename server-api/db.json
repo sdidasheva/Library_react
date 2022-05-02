@@ -1,0 +1,84 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "image": "https://ndc.book24.ru/resize/820x1192/iblock/a25/a2563616be2f7d384a121aaed3b05792/d5c0025a437760cad01b1849b23541e8.jpg",
+      "title": "Билли Саммерс",
+      "year": "2021",
+      "author": "Стивен Кинг"
+    },
+    {
+      "id": "2",
+      "image": "https://ndc.book24.ru/resize/820x1180/iblock/9a0/9a05be42a00f4cb6a339834011eda203/1e74043478397417aa82d32a15f87486.jpg",
+      "title": "Повелитель Мух",
+      "year": "1954",
+      "author": "Голдинг Уильям"
+    },
+    {
+      "id": "3",
+      "image": "https://ndc.book24.ru/resize/820x1180/iblock/195/195f6b08652b8b135d44c120512b44f7/ddd0be1919f1c95715072f1ba5b29ee4.jpg",
+      "title": "Замок Броуди",
+      "year": "1931",
+      "author": "Арчибальд Кронин"
+    },
+    {
+      "id": "4",
+      "image": "https://ndc.book24.ru/resize/820x1180/iblock/b81/b81d864768f9e1785bb7402c3d76d0fa/0535b5a237da087cf2d3b4d2be47a0b1.jpg",
+      "title": "Убить пересмешника",
+      "year": "1960",
+      "author": "Ли Харпер"
+    },
+    {
+      "id": "5",
+      "image": "https://ndc.book24.ru/resize/820x1180/iblock/aa9/aa95f352c0afea7b77dcc06aa466e40a/1a5b0b049f6808be904531a07f53f65b.jpg",
+      "title": "Шестерка Воронов",
+      "year": "2015",
+      "author": "Ли Бардуго"
+    },
+    {
+      "id": "6",
+      "image": "https://ndc.book24.ru/resize/820x1180/iblock/566/56643c5b588b26dc5ecc175bf9c6e29a/aaf97e606e377b8915d1f7a14c4a03b7.jpg",
+      "title": "Мартин Иден",
+      "year": "1909",
+      "author": "Джек Лондон"
+    }
+  ],
+  "authors": [
+    {
+      "id": "1",
+      "img": "https://ndc.book24.ru/resize/280x280/iblock/311/3115552414f06e438bb73d2a7e2c7fc6.jpg",
+      "name": "Стивен Кинг",
+      "birth": "21.09.1947"
+    },
+    {
+      "id": "2",
+      "img": "https://ndc.book24.ru/resize/280x280/iblock/1fc/1fc52f1a6f39a657641575c26029b0e7.jpg",
+      "name": "Голдинг Уильям",
+      "birth": "19.09.1911"
+    },
+    {
+      "id": "3",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/A._J._Cronin_1931a.jpg/274px-A._J._Cronin_1931a.jpg",
+      "name": "Арчибальд Кронин",
+      "birth": "19.07.1896"
+    },
+    {
+      "id": "4",
+      "img": "https://ndc.book24.ru/resize/280x280/iblock/f2f/f2fa86be00dda1c8ff135a17ac9433d5.jpg",
+      "name": "Ли Харпер",
+      "birth": "28.04.1926"
+    },
+    {
+      "id": "5",
+      "img": "https://ndc.book24.ru/resize/280x280/iblock/835/8355f00c107580c161c1a23f3e8b457f.jpg",
+      "name": "Ли Бардуго",
+      "birth": "06.04.1975"
+    },
+    {
+      "id": "6",
+      "img": "https://ndc.book24.ru/resize/280x280/iblock/fa4/fa4c4f8e903528dc2681caa99460563c.jpg",
+      "name": "Джек Лондон",
+      "birth": "12.01.1876"
+    }
+  ]
+}
